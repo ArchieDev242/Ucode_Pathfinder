@@ -216,84 +216,101 @@ Distance: 4
       <td align = "center"><h4>📝 Редактори</h4></td>
     </tr>
     <tr>
-      <td align = "center" valign="top">
-        <div style = "display: flex; flex-direction: column; align-items: center; gap: 10px;">
+      <td align = "center" valign = "top">
+        <p>
           <a href = "https://en.wikipedia.org/wiki/C_(programming_language)">
-            <img src = "https://skillicons.dev/icons?i=c" alt = "C" width = "50" height = "50"><br>
-            <b>C</b>
+            <img src = "https://skillicons.dev/icons?i=c" alt = "C" width = "50" height = "50">
           </a>
+          <br><strong>C</strong>
+        </p>
+        <p>
           <a href = "https://www.gnu.org/software/bash/">
-            <img src = "https://skillicons.dev/icons?i=bash" alt = "Bash" width = "50" height = "50"><br>
-            <b>Bash</b>
+            <img src = "https://skillicons.dev/icons?i=bash" alt = "Bash" width = "50" height = "50">
           </a>
+          <br><strong>Bash</strong>
+        </p>
+        <p>
           <a href = "https://www.markdownguide.org/">
-            <img src = "https://skillicons.dev/icons?i=md" alt = "Markdown" width = "50" height = "50"><br>
-            <b>Markdown</b>
+            <img src = "https://skillicons.dev/icons?i=md" alt = "Markdown" width = "50" height = "50">
           </a>
-        </div>
+          <br><strong>Markdown</strong>
+        </p>
       </td>
-      <td align = "center" valign="top">
-        <div style = "display: flex; flex-direction: column; align-items: center; gap: 10px;">
+      <td align = "center" valign = "top">
+        <p>
           <a href = "https://git-scm.com/">
-            <img src = "https://skillicons.dev/icons?i=git" alt = "Git" width = "50" height = "50"><br>
-            <b>Git</b>
+            <img src = "https://skillicons.dev/icons?i=git" alt = "Git" width = "50" height = "50">
           </a>
+          <br><strong>Git</strong>
+        </p>
+        <p>
           <a href = "https://www.gnu.org/software/make/">
-            <img src = "https://upload.wikimedia.org/wikipedia/commons/2/22/Heckert_GNU_white.svg" alt = "Make" width = "50" height = "50"><br>
-            <b>Make</b>
+            <img src = "https://upload.wikimedia.org/wikipedia/commons/2/22/Heckert_GNU_white.svg" alt = "Make" width = "50" height = "50">
           </a>
+          <br><strong>Make</strong>
+        </p>
+        <p>
           <a href = "https://gcc.gnu.org/">
-            <img src = "https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" alt = "GCC" width = "50" height = "50"><br>
-            <b>GCC</b>
+            <img src = "https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" alt = "GCC" width = "50" height = "50">
           </a>
-        </div>
+          <br><strong>GCC</strong>
+        </p>
       </td>
-      <td align = "center" valign="top">
-        <div style = "display: flex; flex-direction: column; align-items: center; gap: 10px;">
+      <td align = "center" valign = "top">
+        <p>
           <a href = "https://www.linux.org/">
-            <img src = "https://skillicons.dev/icons?i=linux" alt = "Linux" width = "50" height = "50"><br>
-            <b>Linux</b>
+            <img src = "https://skillicons.dev/icons?i=linux" alt = "Linux" width = "50" height = "50">
           </a>
+          <br><strong>Linux</strong>
+        </p>
+        <p>
           <a href = "https://www.microsoft.com/windows/">
-            <img src = "https://skillicons.dev/icons?i=windows" alt = "Windows" width = "50" height = "50"><br>
-            <b>Windows</b>
+            <img src = "https://skillicons.dev/icons?i=windows" alt = "Windows" width = "50" height = "50">
           </a>
+          <br><strong>Windows</strong>
+        </p>
+        <p>
           <a href = "https://www.apple.com/macos/">
-            <img src = "https://skillicons.dev/icons?i=apple" alt = "macOS" width = "50" height = "50"><br>
-            <b>macOS</b>
+            <img src = "https://skillicons.dev/icons?i=apple" alt = "macOS" width = "50" height = "50">
           </a>
-        </div>
+          <br><strong>macOS</strong>
+        </p>
       </td>
-      <td align = "center" valign="top">
-        <div style = "display: flex; flex-direction: column; align-items: center; gap: 10px;">
+      <td align = "center" valign = "top">
+        <p>
           <a href = "https://code.visualstudio.com/">
-            <img src = "https://skillicons.dev/icons?i=vscode" alt = "VSCode" width = "50" height = "50"><br>
-            <b>VSCode</b>
+            <img src = "https://skillicons.dev/icons?i=vscode" alt = "VSCode" width = "50" height = "50">
           </a>
+          <br><strong>VSCode</strong>
+        </p>
+        <p>
           <a href = "https://www.vim.org/">
-            <img src = "https://skillicons.dev/icons?i=vim" alt = "Vim" width = "50" height = "50"><br>
-            <b>Vim</b>
+            <img src = "https://skillicons.dev/icons?i=vim" alt = "Vim" width = "50" height = "50">
           </a>
+          <br><strong>Vim</strong>
+        </p>
+        <p>
           <a href = "https://neovim.io/">
-            <img src = "https://skillicons.dev/icons?i=neovim" alt = "NeoVim" width = "50" height = "50"><br>
-            <b>NeoVim</b>
+            <img src = "https://skillicons.dev/icons?i=neovim" alt = "NeoVim" width = "50" height = "50">
           </a>
-        </div>
+          <br><strong>NeoVim</strong>
+        </p>
       </td>
     </tr>
     <tr>
-      <td colspan="4" align="center">
+      <td colspan = "4" align = "center">
         <h4>☁️ Хмарні сервіси</h4>
-        <div style = "display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
+        <p>
           <a href = "https://github.com/">
-            <img src = "https://skillicons.dev/icons?i=github" alt = "GitHub" width = "50" height = "50"><br>
-            <b>GitHub</b>
+            <img src = "https://skillicons.dev/icons?i=github" alt = "GitHub" width = "50" height = "50">
           </a>
+          <strong>GitHub</strong>
+          &nbsp;&nbsp;&nbsp;&nbsp;
           <a href = "https://about.gitlab.com/">
-            <img src = "https://skillicons.dev/icons?i=gitlab" alt = "GitLab" width = "50" height = "50"><br>
-            <b>GitLab</b>
+            <img src = "https://skillicons.dev/icons?i=gitlab" alt = "GitLab" width = "50" height = "50">
           </a>
-        </div>
+          <strong>GitLab</strong>
+        </p>
       </td>
     </tr>
   </table>
@@ -423,7 +440,7 @@ Distance: 4
 <details>
   <summary>English 🇬🇧</summary>
 
-<span style="margin-top: 5px;"></span>
+<span style = "margin-top: 5px;"></span>
 
 > ⚠️ **WARNING:**
 >
@@ -627,84 +644,101 @@ Ucode_Pathfinder/
       <td align = "center"><h4>📝 Editors</h4></td>
     </tr>
     <tr>
-      <td align = "center" valign="top">
-        <div style = "display: flex; flex-direction: column; align-items: center; gap: 10px;">
+      <td align = "center" valign = "top">
+        <p>
           <a href = "https://en.wikipedia.org/wiki/C_(programming_language)">
-            <img src = "https://skillicons.dev/icons?i=c" alt = "C" width = "50" height = "50"><br>
-            <b>C</b>
+            <img src = "https://skillicons.dev/icons?i=c" alt = "C" width = "50" height = "50">
           </a>
+          <br><strong>C</strong>
+        </p>
+        <p>
           <a href = "https://www.gnu.org/software/bash/">
-            <img src = "https://skillicons.dev/icons?i=bash" alt = "Bash" width = "50" height = "50"><br>
-            <b>Bash</b>
+            <img src = "https://skillicons.dev/icons?i=bash" alt = "Bash" width = "50" height = "50">
           </a>
+          <br><strong>Bash</strong>
+        </p>
+        <p>
           <a href = "https://www.markdownguide.org/">
-            <img src = "https://skillicons.dev/icons?i=md" alt = "Markdown" width = "50" height = "50"><br>
-            <b>Markdown</b>
+            <img src = "https://skillicons.dev/icons?i=md" alt = "Markdown" width = "50" height = "50">
           </a>
-        </div>
+          <br><strong>Markdown</strong>
+        </p>
       </td>
-      <td align = "center" valign="top">
-        <div style = "display: flex; flex-direction: column; align-items: center; gap: 10px;">
+      <td align = "center" valign = "top">
+        <p>
           <a href = "https://git-scm.com/">
-            <img src = "https://skillicons.dev/icons?i=git" alt = "Git" width = "50" height = "50"><br>
-            <b>Git</b>
+            <img src = "https://skillicons.dev/icons?i=git" alt = "Git" width = "50" height = "50">
           </a>
+          <br><strong>Git</strong>
+        </p>
+        <p>
           <a href = "https://www.gnu.org/software/make/">
-            <img src = "https://upload.wikimedia.org/wikipedia/commons/2/22/Heckert_GNU_white.svg" alt = "Make" width = "50" height = "50"><br>
-            <b>Make</b>
+            <img src = "https://upload.wikimedia.org/wikipedia/commons/2/22/Heckert_GNU_white.svg" alt = "Make" width = "50" height = "50">
           </a>
+          <br><strong>Make</strong>
+        </p>
+        <p>
           <a href = "https://gcc.gnu.org/">
-            <img src = "https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" alt = "GCC" width = "50" height = "50"><br>
-            <b>GCC</b>
+            <img src = "https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" alt = "GCC" width = "50" height = "50">
           </a>
-        </div>
+          <br><strong>GCC</strong>
+        </p>
       </td>
-      <td align = "center" valign="top">
-        <div style = "display: flex; flex-direction: column; align-items: center; gap: 10px;">
+      <td align = "center" valign = "top">
+        <p>
           <a href = "https://www.linux.org/">
-            <img src = "https://skillicons.dev/icons?i=linux" alt = "Linux" width = "50" height = "50"><br>
-            <b>Linux</b>
+            <img src = "https://skillicons.dev/icons?i=linux" alt = "Linux" width = "50" height = "50">
           </a>
+          <br><strong>Linux</strong>
+        </p>
+        <p>
           <a href = "https://www.microsoft.com/windows/">
-            <img src = "https://skillicons.dev/icons?i=windows" alt = "Windows" width = "50" height = "50"><br>
-            <b>Windows</b>
+            <img src = "https://skillicons.dev/icons?i=windows" alt = "Windows" width = "50" height = "50">
           </a>
+          <br><strong>Windows</strong>
+        </p>
+        <p>
           <a href = "https://www.apple.com/macos/">
-            <img src = "https://skillicons.dev/icons?i=apple" alt = "macOS" width = "50" height = "50"><br>
-            <b>macOS</b>
+            <img src = "https://skillicons.dev/icons?i=apple" alt = "macOS" width = "50" height = "50">
           </a>
-        </div>
+          <br><strong>macOS</strong>
+        </p>
       </td>
-      <td align = "center" valign="top">
-        <div style = "display: flex; flex-direction: column; align-items: center; gap: 10px;">
+      <td align = "center" valign = "top">
+        <p>
           <a href = "https://code.visualstudio.com/">
-            <img src = "https://skillicons.dev/icons?i=vscode" alt = "VSCode" width = "50" height = "50"><br>
-            <b>VSCode</b>
+            <img src = "https://skillicons.dev/icons?i=vscode" alt = "VSCode" width = "50" height = "50">
           </a>
+          <br><strong>VSCode</strong>
+        </p>
+        <p>
           <a href = "https://www.vim.org/">
-            <img src = "https://skillicons.dev/icons?i=vim" alt = "Vim" width = "50" height = "50"><br>
-            <b>Vim</b>
+            <img src = "https://skillicons.dev/icons?i=vim" alt = "Vim" width = "50" height = "50">
           </a>
+          <br><strong>Vim</strong>
+        </p>
+        <p>
           <a href = "https://neovim.io/">
-            <img src = "https://skillicons.dev/icons?i=neovim" alt = "NeoVim" width = "50" height = "50"><br>
-            <b>NeoVim</b>
+            <img src = "https://skillicons.dev/icons?i=neovim" alt = "NeoVim" width = "50" height = "50">
           </a>
-        </div>
+          <br><strong>NeoVim</strong>
+        </p>
       </td>
     </tr>
     <tr>
-      <td colspan="4" align="center">
+      <td colspan = "4" align = "center">
         <h4>☁️ Cloud Services</h4>
-        <div style = "display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
+        <p>
           <a href = "https://github.com/">
-            <img src = "https://skillicons.dev/icons?i=github" alt = "GitHub" width = "50" height = "50"><br>
-            <b>GitHub</b>
+            <img src = "https://skillicons.dev/icons?i=github" alt = "GitHub" width = "50" height = "50">
           </a>
+          <strong>GitHub</strong>
+          &nbsp;&nbsp;&nbsp;&nbsp;
           <a href = "https://about.gitlab.com/">
-            <img src = "https://skillicons.dev/icons?i=gitlab" alt = "GitLab" width = "50" height = "50"><br>
-            <b>GitLab</b>
+            <img src = "https://skillicons.dev/icons?i=gitlab" alt = "GitLab" width = "50" height = "50">
           </a>
-        </div>
+          <strong>GitLab</strong>
+        </p>
       </td>
     </tr>
   </table>
@@ -835,7 +869,7 @@ The skills developed during this project extend far beyond the code itself:
 <details>
   <summary>Deutsch 🇩🇪</summary>
 
-<span style="margin-top: 5px;"></span>
+<span style = "margin-top: 5px;"></span>
 
 > ⚠️ **ACHTUNG:**
 >
@@ -1039,84 +1073,101 @@ Ucode_Pathfinder/
       <td align = "center"><h4>📝 Editoren</h4></td>
     </tr>
     <tr>
-      <td align = "center" valign="top">
-        <div style = "display: flex; flex-direction: column; align-items: center; gap: 10px;">
+      <td align = "center" valign = "top">
+        <p>
           <a href = "https://en.wikipedia.org/wiki/C_(programming_language)">
-            <img src = "https://skillicons.dev/icons?i=c" alt = "C" width = "50" height = "50"><br>
-            <b>C</b>
+            <img src = "https://skillicons.dev/icons?i=c" alt = "C" width = "50" height = "50">
           </a>
+          <br><strong>C</strong>
+        </p>
+        <p>
           <a href = "https://www.gnu.org/software/bash/">
-            <img src = "https://skillicons.dev/icons?i=bash" alt = "Bash" width = "50" height = "50"><br>
-            <b>Bash</b>
+            <img src = "https://skillicons.dev/icons?i=bash" alt = "Bash" width = "50" height = "50">
           </a>
+          <br><strong>Bash</strong>
+        </p>
+        <p>
           <a href = "https://www.markdownguide.org/">
-            <img src = "https://skillicons.dev/icons?i=md" alt = "Markdown" width = "50" height = "50"><br>
-            <b>Markdown</b>
+            <img src = "https://skillicons.dev/icons?i=md" alt = "Markdown" width = "50" height = "50">
           </a>
-        </div>
+          <br><strong>Markdown</strong>
+        </p>
       </td>
-      <td align = "center" valign="top">
-        <div style = "display: flex; flex-direction: column; align-items: center; gap: 10px;">
+      <td align = "center" valign = "top">
+        <p>
           <a href = "https://git-scm.com/">
-            <img src = "https://skillicons.dev/icons?i=git" alt = "Git" width = "50" height = "50"><br>
-            <b>Git</b>
+            <img src = "https://skillicons.dev/icons?i=git" alt = "Git" width = "50" height = "50">
           </a>
+          <br><strong>Git</strong>
+        </p>
+        <p>
           <a href = "https://www.gnu.org/software/make/">
-            <img src = "https://upload.wikimedia.org/wikipedia/commons/2/22/Heckert_GNU_white.svg" alt = "Make" width = "50" height = "50"><br>
-            <b>Make</b>
+            <img src = "https://upload.wikimedia.org/wikipedia/commons/2/22/Heckert_GNU_white.svg" alt = "Make" width = "50" height = "50">
           </a>
+          <br><strong>Make</strong>
+        </p>
+        <p>
           <a href = "https://gcc.gnu.org/">
-            <img src = "https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" alt = "GCC" width = "50" height = "50"><br>
-            <b>GCC</b>
+            <img src = "https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" alt = "GCC" width = "50" height = "50">
           </a>
-        </div>
+          <br><strong>GCC</strong>
+        </p>
       </td>
-      <td align = "center" valign="top">
-        <div style = "display: flex; flex-direction: column; align-items: center; gap: 10px;">
+      <td align = "center" valign = "top">
+        <p>
           <a href = "https://www.linux.org/">
-            <img src = "https://skillicons.dev/icons?i=linux" alt = "Linux" width = "50" height = "50"><br>
-            <b>Linux</b>
+            <img src = "https://skillicons.dev/icons?i=linux" alt = "Linux" width = "50" height = "50">
           </a>
+          <br><strong>Linux</strong>
+        </p>
+        <p>
           <a href = "https://www.microsoft.com/windows/">
-            <img src = "https://skillicons.dev/icons?i=windows" alt = "Windows" width = "50" height = "50"><br>
-            <b>Windows</b>
+            <img src = "https://skillicons.dev/icons?i=windows" alt = "Windows" width = "50" height = "50">
           </a>
+          <br><strong>Windows</strong>
+        </p>
+        <p>
           <a href = "https://www.apple.com/macos/">
-            <img src = "https://skillicons.dev/icons?i=apple" alt = "macOS" width = "50" height = "50"><br>
-            <b>macOS</b>
+            <img src = "https://skillicons.dev/icons?i=apple" alt = "macOS" width = "50" height = "50">
           </a>
-        </div>
+          <br><strong>macOS</strong>
+        </p>
       </td>
-      <td align = "center" valign="top">
-        <div style = "display: flex; flex-direction: column; align-items: center; gap: 10px;">
+      <td align = "center" valign = "top">
+        <p>
           <a href = "https://code.visualstudio.com/">
-            <img src = "https://skillicons.dev/icons?i=vscode" alt = "VSCode" width = "50" height = "50"><br>
-            <b>VSCode</b>
+            <img src = "https://skillicons.dev/icons?i=vscode" alt = "VSCode" width = "50" height = "50">
           </a>
+          <br><strong>VSCode</strong>
+        </p>
+        <p>
           <a href = "https://www.vim.org/">
-            <img src = "https://skillicons.dev/icons?i=vim" alt = "Vim" width = "50" height = "50"><br>
-            <b>Vim</b>
+            <img src = "https://skillicons.dev/icons?i=vim" alt = "Vim" width = "50" height = "50">
           </a>
+          <br><strong>Vim</strong>
+        </p>
+        <p>
           <a href = "https://neovim.io/">
-            <img src = "https://skillicons.dev/icons?i=neovim" alt = "NeoVim" width = "50" height = "50"><br>
-            <b>NeoVim</b>
+            <img src = "https://skillicons.dev/icons?i=neovim" alt = "NeoVim" width = "50" height = "50">
           </a>
-        </div>
+          <br><strong>NeoVim</strong>
+        </p>
       </td>
     </tr>
     <tr>
-      <td colspan="4" align="center">
+      <td colspan = "4" align = "center">
         <h4>☁️ Cloud-Dienste</h4>
-        <div style = "display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
+        <p>
           <a href = "https://github.com/">
-            <img src = "https://skillicons.dev/icons?i=github" alt = "GitHub" width = "50" height = "50"><br>
-            <b>GitHub</b>
+            <img src = "https://skillicons.dev/icons?i=github" alt = "GitHub" width = "50" height = "50">
           </a>
+          <strong>GitHub</strong>
+          &nbsp;&nbsp;&nbsp;&nbsp;
           <a href = "https://about.gitlab.com/">
-            <img src = "https://skillicons.dev/icons?i=gitlab" alt = "GitLab" width = "50" height = "50"><br>
-            <b>GitLab</b>
+            <img src = "https://skillicons.dev/icons?i=gitlab" alt = "GitLab" width = "50" height = "50">
           </a>
-        </div>
+          <strong>GitLab</strong>
+        </p>
       </td>
     </tr>
   </table>
